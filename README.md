@@ -44,9 +44,13 @@ By working on this project, you can learn:
 - how CSS can improve the look and behavior of a webpage
 
 ## Project Structure
-
-```bash
 CSS3-features/
 │── index.html
 │── style.css
 │── README.md
+File names may be slightly different depending on your project folder.
+
+Conclusion
+
+This is a beginner-friendly CSS3 practice project.
+It is useful for learning basic modern CSS features and improving front-end development skills.
